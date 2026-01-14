@@ -2,8 +2,8 @@
 
 My name is Navya, and I'm a Computer science undergraduate interested and aspiring Software Developer !
 
-- 🔭 I’m currently working on Data Structures and Algorithms to enhance my Logical Thinking capabilites.
-- 🌱 I’m currently learning FullStack Web Developement, I recently build a Sample game using basic frontend technologies check out [here](https://github.com/NavyaNuthalapati/Simon-Says-A-Game).
+- 🔭 I’m currently working on Data Structures and Algorithms to enhance my Logical Thinking capabilities.
+- 🌱 I’m currently learning FullStack Web Development, I recently build a Sample game using basic frontend technologies check out [here](https://github.com/NavyaNuthalapati/Simon-Says-A-Game).
 - 🤖 Worked on **Machine Learning projects** including medical data predictions, check out it [here](https://github.com/NavyaNuthalapati/Mini-Project-templates/tree/main).
 - 👯 I’m looking to collaborate for open source projects!
 
